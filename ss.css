@@ -1,0 +1,25 @@
+.txt{
+width: 600px;
+}
+h1,h3{
+    text-align: center;
+}
+b{
+    color: orange;
+}
+body{
+    background: url(1.jpg);
+}
+h1{
+    color: orange;
+}
+p{
+    color: white;
+}
+.photo{
+    display: flex;
+    height: 400px;
+    margin-top: -400px;
+    margin-left: 650px ;
+
+}
